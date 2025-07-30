@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "командир взвода",
+    "subdivision_id": 1,
+	"count": 1
+  },
+  {
+    "id": 2,
+    "name": "командир отделения",
+    "subdivision_id": 1,
+	"count": 3
+  },
+  {
+    "id": 3,
+    "name": "курсант",
+    "subdivision_id": 1,
+	"count": 26
+  },
+  {
+    "id": 4,
+    "name": "командир взвода",
+    "subdivision_id": 2,
+	"count": 1
+  },
+  {
+    "id": 5,
+    "name": "командир отделения",
+    "subdivision_id": 2,
+	"count": 3
+  },
+  {
+    "id": 6,
+    "name": "курсант",
+    "subdivision_id": 2,
+	"count": 26
+  },
+    {
+    "id": 7,
+    "name": "командир взвода",
+    "subdivision_id": 3,
+	"count": 1
+  },
+  {
+    "id": 8,
+    "name": "командир отделения",
+    "subdivision_id": 3,
+	"count": 3
+  },
+  {
+    "id": 9,
+    "name": "курсант",
+    "subdivision_id": 3,
+	"count": 26
+  }
+]
